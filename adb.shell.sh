@@ -45,4 +45,3 @@ pm uninstall -k --user 0 com.xiaomi.mi_connect_service
 pm uninstall -k --user 0 com.xiaomi.xmsf
 pm uninstall -k --user 0 com.miui.mishare.connectivity
 pm uninstall -k --user 0 com.miui.cleaner
-pm uninstall -k --user 0 com.xiaomi.account
